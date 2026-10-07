@@ -71,3 +71,6 @@ To deactivate conda environment:
 To stop the auto-activation of the conda environment:
 
 	conda config --set auto_activate_base false
+
+## SPECFEM helpers
+Setup for the SPECFEM3D tomography helpers: [docs/specfem.md](docs/specfem.md).
